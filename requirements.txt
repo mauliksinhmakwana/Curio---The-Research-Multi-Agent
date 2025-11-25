@@ -1,0 +1,6 @@
+langchain
+langchain-google-genai
+langgraph
+duckduckgo-search
+python-dotenv
+termcolor
