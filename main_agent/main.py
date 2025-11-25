@@ -7,7 +7,7 @@ load_dotenv()
 
 def main():
     print("✨ Welcome to Curio: Your Empathetic Research Team ✨")
-    topic = input("What would you like us to research for you today? (e.g., 'The future of AI agents'): ")
+    topic = input("What would you like us to research for you today?")
     
     initial_state = {
         "topic": topic,
